@@ -99,6 +99,8 @@ nav a {
     color: #707070;
     font-weight: 700;
     padding: .25em 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
 }
 
 nav a:hover,
@@ -173,6 +175,7 @@ nav a:focus {
     font-weight: lighter;
     font-size: .95rem;
     color: #707070;
+    line-height: 2;
 }
 
 .continue-reading{
